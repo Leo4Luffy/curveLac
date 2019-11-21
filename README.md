@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Leo4Luffy/curveLac/master/Imagenes/curveLac_hex.png" width="220" height="240">
 
-## ¡Inicie! 🏁
+## ¡Procedimiento básico de instalación! 🏁
 
 Hasta que este paquete no se encuentre en el CRAN, instale **¡por favor!** la versión de desarrollo desde GitHub, siguiendo las siguientes instrucciones de código en su consola de `R` :trollface: :
 
