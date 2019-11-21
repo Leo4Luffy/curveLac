@@ -17,3 +17,5 @@ library(devtools)
 install_github("Leo4Luffy/curveLac")
 library("curveLac")
 ```
+
+Roses are <span style="color:red">red</span>
