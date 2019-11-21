@@ -17,5 +17,3 @@ library(devtools)
 install_github("Leo4Luffy/curveLac")
 library("curveLac")
 ```
-
-<p style="color:red">this part of which is red!</p>
