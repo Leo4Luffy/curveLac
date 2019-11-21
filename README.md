@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Leo4Luffy/curveLac/master/Imagenes/curveLac_hex.png" width="180" height="200">
+<img src="https://raw.githubusercontent.com/Leo4Luffy/curveLac/master/Imagenes/curveLac_hex.png" width="220" height="240">
 
 ## ¡Inicie! 🏁
 
@@ -20,4 +20,4 @@ library("curveLac")
 
 |Enlaces rápidos|
 |---|
-|[Wiki](https://github.com/thibautjombart/adegenet/wiki)|
+|[Wiki](https://github.com/Leo4Luffy/curveLac/wiki)|
