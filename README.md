@@ -1,2 +1,5 @@
 # curveLac
-curveLac: un paquete de R para describir curvas de lactancia mediante modelación estadística.
+
+##:start-flag: ¡Inicie!
+
+Hasta que este paquete no se encuentre en el CRAN :man-mechanic:, **¡Por favor!** 
