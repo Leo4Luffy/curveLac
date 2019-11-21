@@ -1,5 +1,5 @@
 # curveLac
 
-##:start-flag: ¡Inicie!
+##:startflag: ¡Inicie!
 
-Hasta que este paquete no se encuentre en el CRAN :man-mechanic:, **¡Por favor!** :trollface:
+Hasta que este paquete no se encuentre en el CRAN :manmechanic:, **¡Por favor!** :trollface:
