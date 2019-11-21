@@ -1,4 +1,4 @@
-# curveLac
+# curveLac <img src="https://raw.githubusercontent.com/Leo4Luffy/curveLac/master/Imagenes/curveLac_hex.png" width="180" height="200">
 
 ## ¡Inicie! 🏁
 
