@@ -6,13 +6,13 @@ Hasta que este paquete no se encuentre en el CRAN, instale **¡por favor!** la v
 
 > Necesitarás el paquete `devtools` para poder instalar la versión de desarrollo del paquete. Para instalar `devtools`:
 
-```
+```javascript
 install.packages("devtools")
 ```
 
 > Luego para instalar el paquete `curveLac` copia el siguiente código:
 
-```
+```javascript
 library(devtools)
 install_github("Leo4Luffy/curveLac")
 library("curveLac")
