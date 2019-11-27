@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/Leo4Luffy/curveLac/master/Imagenes/curveLac_hex.png" width="220" height="240">
+# curveLac <img src="https://raw.githubusercontent.com/Leo4Luffy/curveLac/master/Imagenes/curveLac_hex.png" align="right" width="220" height="240" />
+
+[![Travis-CI Build Status](https://travis-ci.org/Leo4Luffy/curveLac.svg?branch=master)]
+
 
 ## Procedimiento básico de instalación :checkered_flag:
 
