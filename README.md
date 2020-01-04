@@ -25,3 +25,4 @@ library("curveLac")
 |Enlaces rápidos|
 |---|
 |[Wiki](https://github.com/Leo4Luffy/curveLac/wiki)|
+|[Hoja de trucos](https://rstudio.com/resources/cheatsheets/how-to-contribute-a-cheatsheet/)|
